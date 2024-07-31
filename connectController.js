@@ -2,8 +2,9 @@
  * @name Controller Connect
  * @description Use any controller to play gimkit platformer mode | Original input code by TheLazySquid
  * @author wendover
- * @version 1.2.1
+ * @version 0.2.1
  * @needsLib CommandLine | https://raw.githubusercontent.com/Blackhole927/gimkitmods/main/libraries/CommandLine/CommandLine.js
+ * @downloadUrl https://raw.githubusercontent.com/wend0ver/controller-connect/main/connectController.js
  */
 
 // libs
